@@ -1,0 +1,12 @@
+{
+  "name": "@wcd/abirami-sakthivel.litts-l3k0v1d5-fork-l3k11l4b",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve DMeKDcv9IBdOEo8HS6sX --open"
+  },
+  "dependencies": {}
+}
